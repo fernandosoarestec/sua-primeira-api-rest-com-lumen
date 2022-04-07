@@ -16,7 +16,7 @@ class CourseController extends Controller
     public function __construct(Course $course)
     {
         $this->course = $course;
-    }
+    } 
 
     public function index()
     {

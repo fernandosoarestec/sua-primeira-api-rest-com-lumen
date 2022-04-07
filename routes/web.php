@@ -28,6 +28,6 @@ $router->group(['prefix' => 'courses'], function() use($router){
         Recurso: Curso (Course)
         Endpoint: /courses (cursos)
         GET, POST, PUT/PATCH, DELETE
-    */
+    */ 
 
 });
